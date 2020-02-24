@@ -13,5 +13,5 @@ features = ["comments", "scss", "menu"]
 # If porting an existing theme
 [original]
   name = "Michael Rose"
-  homepage = "ihttps://mademistakes.com/"
+  homepage = "https://mademistakes.com/"
   repo = "https://github.com/mmistakes/hpstr-jekyll-theme"
